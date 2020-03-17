@@ -1,0 +1,15 @@
+current directory: /Users/ryoga_gushiken/rails_tutorial/hello_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/ryoga_gushiken/.rbenv/versions/2.6.3/bin/ruby -I /Users/ryoga_gushiken/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20200317-11783-18ocgh3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ryoga_gushiken/rails_tutorial/hello_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/ryoga_gushiken/rails_tutorial/hello_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/ryoga_gushiken/rails_tutorial/hello_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20200317-11783-2bz7rt/skiptrace/internal
